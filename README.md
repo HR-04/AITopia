@@ -50,8 +50,8 @@ This project is built using [Next.js](https://nextjs.org/), a powerful React fra
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/your-project-name.git
-   cd your-project-name
+   git clone https://github.com/HR-04/AITopia.git
+   cd Aitopia
    ```
 
 2. **Install Dependencies**
